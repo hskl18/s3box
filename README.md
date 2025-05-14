@@ -21,10 +21,3 @@ A minimal “Dropbox clone” that lets users upload, list, and download files f
 - **AWS SDK**: `@aws-sdk/client-s3` & `@aws-sdk/s3-request-presigner`  
 
 ---
-
-## 🚀 Quick Start
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your‑username/s3box.git
-   cd s3box
